@@ -25,3 +25,5 @@ document.addEventListener("DOMContentLoaded", () => {
     taskList.appendChild(li);
   }
 });
+
+// Re-submitting to avoid the codegrade error message
