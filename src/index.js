@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // your code here
   // Step 1: Select the form
   const form = document.getElementById("create-task-form");
 
@@ -25,5 +24,3 @@ document.addEventListener("DOMContentLoaded", () => {
     taskList.appendChild(li);
   }
 });
-
-// Re-submitting to avoid the codegrade error message
